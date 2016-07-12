@@ -1,0 +1,47 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[latin1]{inputenc} 
+\usepackage[pdftex]{hyperref}
+
+
+\begin{document}
+
+\begin{Form}[action={http://your-web-server.com/path/receiveform.cgi}]
+
+\TextField[name=author,width=10cm,value={Eduardo de Santana Medeiros Alexandre}]{Autor}
+
+\TextField[name=date,width=10cm,value=2016]{Ano}
+
+
+\TextField[name=local,width=10cm,value=Brasil]{Local}
+
+\TextField[name=orientador,width=10cm,value={Lauro Cesar Araujo}]{Orientador}
+
+\TextField[name=coorientador,width=10cm,value={Equipe abnTeX}]{Coorientador}
+
+\TextField[name=instituicao,width=10cm,value={Universidade do Brasil -- UBr}]{instituicao}
+
+\TextField[name=curso,width=10cm,value={Faculdade de Arquitetura da Informacao}]{curso}
+
+
+\TextField[name=programa,width=10cm,value={Programa de Pos-Graduacao}]{programa}
+
+
+\ChoiceMenu[name=tipotrabalho,value=Monografia]{Tipo do trabalho}{Monografia,Dissertação,Tese}
+
+
+\subsection{preambulo}
+
+O preambulo é opcional, exemplo de texto do preambulo:
+
+\quote{Modelo canônico de trabalho monográfico acadêmico em conformidade com
+as normas ABNT apresentado à comunidade de usuários \LaTeX.}
+
+\TextField[name=preambulo,width=10cm,multiline=true,value={Atualize o texto aqui}]{Texto do preambulo}
+
+
+
+
+
+\end{Form}
+
+\end{document}
