@@ -4,7 +4,7 @@ collection-binextra 1
 collection-context 0
 collection-fontsrecommended 1
 collection-fontutils 1
-collection-genericrecommended 1
+collection-genericrecommended 0
 collection-langczechslovak 0
 collection-langenglish 1
 collection-langeuropean 0
@@ -21,9 +21,10 @@ collection-luatex 0
 collection-mathscience 0
 collection-metapost 0
 collection-plainextra 0
-collection-publishers 1
+collection-publishers 0
 collection-texworks 0
 collection-xetex 1
+abntex2 1
 option_letter 0
 portable 0
 option_doc 0
