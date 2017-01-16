@@ -1,4 +1,6 @@
-# At the moment, the biggest contributions are: use the tool, [perform the experiment]
+# Contributing to the project
+
+At the moment, the biggest contributions are: use the tool, [perform the experiment]
 and [publicizing it](https://github.com/abntex/limarka/wiki/Imprensa).
 
 [perform the experiment]: https://github.com/abntex/limarka/wiki/Experimentos
@@ -27,7 +29,7 @@ As a teacher you can contribute with limarka by publicizing it and offering lima
 
 - Recommend to publish a post about limarka in the news agency of your institution. The news agencies of the institutions are a great medium for disclosure, check how to contact the agency and recommend a story to be published.
 
-- Click the star [in the project repository](https://github.com/abntex/limarka) (equivalent to a * like *) in github.
+- Click the star [in the project repository](https://github.com/abntex/limarka) (equivalent to a *like*) in github.
 
 # Student
 
@@ -35,13 +37,7 @@ As a teacher you can contribute with limarka by publicizing it and offering lima
 - Participate in the [tool-use experiment](https://github.com/abntex/limarka/wiki/Experimentos) - URGENTLY NEEDED!
 - Share some limarka news on your social networks or mail-list of students or laboratories
 - Write your conclusion paper or your proposal / project with limarka and share your experience
-- Click on the star [in the project repository] (https://github.com/abntex/limarka) (equivalent to a * like *) in github.
-
-- Utilize o limarka para elaboração de relatórios
-- Participe do [experimente de uso da ferramenta](https://github.com/abntex/limarka/wiki/Experimentos) - NECESSITA-SE URGENTEMENTE!
-- Compartilhe alguma notícia do limarka em suas redes sociais ou lista de alunos ou de laboratórios
-- Escreva seu trabalho de conclusão ou sua proposta/projeto com o limarka e compartilhe sua experiência
-- Click the star [in the project repository](https://github.com/abntex/limarka) (equivalent to a * like *) in github.
+- Click on the star [in the project repository] (https://github.com/abntex/limarka) (equivalent to a *like*) in github.
 
 # Latex User
 
