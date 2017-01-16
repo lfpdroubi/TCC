@@ -8,8 +8,6 @@ Hello! Welcome to limarka!
 
 <!-- Show what you're doing, for who, and why.  -->
 
-O limarka é uma ferramenta que possibilita seus usuários escreverem relatórios ou trabalhos de conclusão de curso (Monografia, TCC, Dissertação ou Tese) em arquivos somente texto e **produzir PDFs em conformidades com as Normas da ABNT**. A produção desse tipo de trabalho é um momento sensível na vida dos estudantes, que pode contribuir para evasão no ensino superior. O objetivo do limarka é liberar dos estudantes os esforços de formatação e adequação às Normas da ABNT, deixando-os concentrar-se no planejamento, execução e escrita de seus trabalhos.
-
 Limarka is a tool that allows its users to write reports or academic writtings (Monograph, TCC, Dissertation or Thesis) in text-only files and **produce PDFs in compliance with the ABNT Standards**. The production of this type of work is a sensitive moment in the lives of students, which can contribute to avoidance in higher education. Limarka's goal is to free the students of the formatting and compliance efforts of the ABNT Standards, allowing them to concentrate on the planning, execution and writing of their work.
 
 # Who uses limarka says it's easy and enjoyable, find out why
@@ -17,7 +15,7 @@ Limarka is a tool that allows its users to write reports or academic writtings (
 <!-- Explain what makes your project special, useful, exciting! -->
 
 * Requires minimum knowledge on the ABNT Standards
-* Uses model with preconfigured styles with the standard and easy to use
+* Uses templates with preconfigured styles with the standard and easy to use
 * Uses system for managing citations and makes references automatically
 * Generate the summary automatically without additional effort
 * Allows writing of work in text-only files, using Markdown
@@ -32,7 +30,7 @@ Limarka is a tool that allows its users to write reports or academic writtings (
 <!-- Show how to get started using or contribution to the project -->
 
 - [To start using the tool follow the instructions on the project's wiki](https://github.com/abntex/limarka/wiki)
-- Remember to access the [chat in gitter](http://gitter.im/abntex/limarka)to clear your doubts about the tool.
+- Remember to access the [chat in gitter](http://gitter.im/abntex/limarka) to clear your doubts about the tool.
 
 # Contributing to the project
 
@@ -42,7 +40,7 @@ See how easy it is to contribute!
 
 ## Teacher
 
-- Update your personal / institutional page by adding a [link to limarka] (https://github.com/abntex/limarka/wiki/Press)
+- Update your personal / institutional page by adding a [link to limarka] (https://github.com/abntex/limarka/wiki/Imprensa)
 - Request to include limarka as an alternative in instructional materials about production of academic work, or in the disciplines of Methodology.
 - When requesting activity reports to students, suggest the use of limarka.
 - Disseminate news about limarka in mail list of teachers or students.
@@ -53,14 +51,14 @@ See how easy it is to contribute!
 ## Student
 
 - Use limarka for reporting
-- Participate in the [tool-use experiment] (https://github.com/abntex/limarka/wiki/Experiments) - URGENTLY NEEDED!
+- Participate in the [tool-use experiment] (https://github.com/abntex/limarka/wiki/Experimentos) - URGENTLY NEEDED!
 - Share some limarka news on your social networks or student maillist
 - Write your academic work with limarka and share your experience
-- Click the star in the project repository (equivalent to a * like *)
+- Click the star in the project repository (equivalent to a *like*)
 
 ## Latex user
 
-- Help in the creation of customized latex templates for institutions
+- Help creating customized latex templates for institutions
 
 ## Desenvolvedor Ruby
 
