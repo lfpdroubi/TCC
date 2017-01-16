@@ -4,104 +4,106 @@
 
 ![Normas da ABNT em 2017: Atualizadas](https://img.shields.io/badge/Normas da ABNT em 2017-Atualizadas-brightgreen.svg) ![NBR 14724:2011 100%](https://img.shields.io/badge/NBR 2014724%3A2011-100%25-brightgreen.svg)
 
-Olá! Bem vindo ao limarka!
+Hello! Welcome to limarka!
 
 <!-- Show what you're doing, for who, and why.  -->
 
 O limarka é uma ferramenta que possibilita seus usuários escreverem relatórios ou trabalhos de conclusão de curso (Monografia, TCC, Dissertação ou Tese) em arquivos somente texto e **produzir PDFs em conformidades com as Normas da ABNT**. A produção desse tipo de trabalho é um momento sensível na vida dos estudantes, que pode contribuir para evasão no ensino superior. O objetivo do limarka é liberar dos estudantes os esforços de formatação e adequação às Normas da ABNT, deixando-os concentrar-se no planejamento, execução e escrita de seus trabalhos.
 
-# Quem utiliza o limarka diz que ele é fácil e prazeroso, descubra o porquê!
+Limarka is a tool that allows its users to write reports or academic writtings (Monograph, TCC, Dissertation or Thesis) in text-only files and **produce PDFs in compliance with the ABNT Standards**. The production of this type of work is a sensitive moment in the lives of students, which can contribute to avoidance in higher education. Limarka's goal is to free the students of the formatting and compliance efforts of the ABNT Standards, allowing them to concentrate on the planning, execution and writing of their work.
+
+# Who uses limarka says it's easy and enjoyable, find out why
 
 <!-- Explain what makes your project special, useful, exciting! -->
 
-* Exige conhecimentos mínimos sobre as Normas da ABNT
-* Utiliza modelo com estilos pré-configurados com as normas e de fácil utilização
-* Utiliza sistema para gerenciamento de citações e elaboração das referências automaticamente
-* Gera o sumário automaticamente, sem esforço adicional
-* Permite a escrita do trabalho em arquivos somente texto, utilizando Markdown
-* As configurações são realizadas em um arquivo de formulário em PDF
+* Requires minimum knowledge on the ABNT Standards
+* Uses model with preconfigured styles with the standard and easy to use
+* Uses system for managing citations and makes references automatically
+* Generate the summary automatically without additional effort
+* Allows writing of work in text-only files, using Markdown
+* Settings are performed in a PDF form file
 
-## Exemplo de utilização do limarka
+## Example of using limarka
 
 ![logo](https://raw.githubusercontent.com/wiki/abntex/limarka/imagens/escrevendo-objetivos-em-markdown.gif)
 
-# Como iniciar utilização
+# How to get start using
 
 <!-- Show how to get started using or contribution to the project -->
 
-- [Para começar a utilizar a ferramenta siga as instruções no wiki do projeto](https://github.com/abntex/limarka/wiki)
-- Lembre-se de acessar o [chat no gitter](http://gitter.im/abntex/limarka) para tirar suas dúvidas sobre a ferramenta.
+- [To start using the tool follow the instructions on the project's wiki](https://github.com/abntex/limarka/wiki)
+- Remember to access the [chat in gitter](http://gitter.im/abntex/limarka)to clear your doubts about the tool.
 
-# Contribuindo com o projeto
+# Contributing to the project
 
 <!-- State what resources and contributions you're looking for -->
 
-Veja como é fácil contribuir! 
+See how easy it is to contribute!
 
-## Professor
+## Teacher
 
-- Atualize sua página pessoal/institucional adicionando uma [matéria ou link sobre o limarka](https://github.com/abntex/limarka/wiki/Imprensa)
-- Solicite incluir o limarka como uma alternativa nos materiais de instruções de produção de trabalhos de conclusão, ou nas disciplinas de Metodologia.
-- Ao solicitar relatórios de atividades aos alunos, sugira a utilização do limarka.
-- Divulgue um notícia sobre o limarka nas listas de professores ou alunos.
-- Recomende a veiculação de uma matéria sobre o limarka na agência de noticias de sua instituição.
-- Sugira seus orientandos experimentarem o limarka.
-- Clique na estrela no repositório do projeto (equivale a um *like*)
+- Update your personal / institutional page by adding a [link to limarka] (https://github.com/abntex/limarka/wiki/Press)
+- Request to include limarka as an alternative in instructional materials about production of academic work, or in the disciplines of Methodology.
+- When requesting activity reports to students, suggest the use of limarka.
+- Disseminate news about limarka in mail list of teachers or students.
+- Recommend to publish a post about limarka in the news agency of your institution.
+- Suggest your studens to try limarka.
+- Click the star in the project repository (equivalent to a *like*)
 
-## Estudante
+## Student
 
-- Utilize o limarka para elaboração de relatórios
-- Participe do [experimente de uso da ferramenta](https://github.com/abntex/limarka/wiki/Experimentos) - NECESSITA-SE URGENTEMENTE!
-- Compartilhe alguma notícia do limarka em suas redes sociais ou lista de alunos
-- Escreva seu trabalho de conclusão com o limarka e compartilhe sua experiência
-- Clique na estrela no repositório do projeto (equivale a um *like*)
+- Use limarka for reporting
+- Participate in the [tool-use experiment] (https://github.com/abntex/limarka/wiki/Experiments) - URGENTLY NEEDED!
+- Share some limarka news on your social networks or student maillist
+- Write your academic work with limarka and share your experience
+- Click the star in the project repository (equivalent to a * like *)
 
-## Usuário Latex
+## Latex user
 
-- Auxilie na criação de templates latex customizados para as instituições
+- Help in the creation of customized latex templates for institutions
 
 ## Desenvolvedor Ruby
 
 [![GitHub issues](https://img.shields.io/github/issues/abntex/limarka.svg)](https://github.com/abntex/limarka/issues)
 
-- [Escolha uma das funcionalidades para implementar](https://github.com/abntex/limarka/issues)
-- Notifique ou corrija um Bug
+- [Choose one of the features to implement](https://github.com/abntex/limarka/issues)
+- Notify or fix a bug
 
-Acesse o [chat no gitter](http://gitter.im/abntex/limarka) e fale conosco!
+Access the [chat in gitter](http://gitter.im/abntex/limarka) and talk to us!
 
-## Desenvolvedor Web
+## Web developer
 
-Nós desejamos melhorar a experiência de utilização da ferramenta implementando 
-um site que gere conteúdos dinâmicos, gostaria de contribuir? 
+We wish to improve the experience of using the tool by implementing
+a site that generates dynamic content, would you like to contribute?
 
-Acesse o [chat no gitter](http://gitter.im/abntex/limarka) e fale conosco!
+Access the [chat in gitter] (http://gitter.im/abntex/limarka) and talk to us!
 
-## Todas as formas de contribuição
+## All forms of contributions
 
-Consulte o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para verificar todas as formas de contribuições.
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file for all types of contributions.
 
 <!-- Point to other key resources, such as a contributing.md file and a roadmap. -->
 
-## Deseja entrar em contato?
+## Want to get in touch?
 
-O meio de comunicação oficial do limarka é uma sala de bate papo no gitter: [![Join the chat at https://gitter.im/abntex/limarka](https://badges.gitter.im/abntex/limarka.svg)](https://gitter.im/abntex/limarka)
+The official limarka communication medium is a chat room in gitter: [![Join the chat at https://gitter.im/abntex/limarka](https://badges.gitter.im/abntex/limarka.svg)](https://gitter.im/abntex/limarka)
 
 # Links
 
-- A documentação do limarka será mantida no [wiki do projeto](https://github.com/abntex/limarka/wiki).
-- [Vídeos](https://www.youtube.com/playlist?list=PLTnAY6TvPRKK6OgGYy3UA0oFdfCfRZesY) -- recomendo assistir em velocidade rápida
-- [Convite para realização de experimento de utilização](https://github.com/abntex/limarka/wiki/Experimentos)
+- The limarka documentation will be kept in the [wiki project] (https://github.com/abntex/limarka/wiki).
+- [Videos](https://www.youtube.com/playlist?list=PLTnAY6TvPRKK6OgGYy3UA0oFdfCfRZesY) - I recommend watching at fast speed
+- [Invitation to do the usage experiment](https://github.com/abntex/limarka/wiki/Experimentos)
 
-# Funcionalidades do limarka
+# Limarka features
 
-- Utilização da linguagem Markdown para escrita do texto;
-- Configurações através de formulário PDF ou arquivo YAML;
-- Possibilidade de inclusão de códigos Latex;
-- Facilidade para geração de códigos para inclusão de Figuras, Quadros, Tabelas, Referências e Citações;
-- Facilidade em edição ou personalização de templates;
-- Facilidade de obter suporte ao código Latex gerado (compatível com o estilo do abnTeX2);
+- Use Markdown language to write the text;
+- Configurations by PDF form or YAML file;
+- Possibility of inclusion of Latex codes;
+- Easy to generate codes for inclusion of Figures, *Quadros*, Tables, References and Citations;
+- Easy editing or customization of templates;
+- Ease of getting support for the generated Latex code (compatible with the abnTeX2 style);
 
 # License
 
-Esse gem é disponibilizado como software livre através da [Licença MIT](http://opensource.org/licenses/MIT).
+This gem is made available as free software through [MIT License](http://opensource.org/licenses/MIT).
 
